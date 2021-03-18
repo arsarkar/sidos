@@ -38,8 +38,6 @@ import javax.swing.border.TitledBorder;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-import com.sun.java.swing.Painter;
-
 import Painter.PolygonPainter;
 import algorithms.Algorithm;
 import algorithms.LineSweep;
